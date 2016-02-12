@@ -1,0 +1,22 @@
+{
+  "name": "njs-class",
+  "version": "1.0.0",
+  "description": "Class For NJS Core libraries and NJS RPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel-vo/njs-class.git"
+  },
+  "author": "Pavel Nikotin <mail@intelin.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pavel-vo/njs-class/issues"
+  },
+  "homepage": "https://github.com/Pavel-vo/njs-class#readme",
+  "dependencies": {
+    "njs-util": "git+https://github.com/Pavel-vo/njs-util.git"
+  }
+}
